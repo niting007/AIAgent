@@ -1,0 +1,4 @@
+langchain # local llm usages 
+langchain-ollama  # Olama base
+langchain-chroma  # for DB
+pandas  # for reading the csv file 
